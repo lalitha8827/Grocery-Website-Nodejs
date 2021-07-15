@@ -1,0 +1,39 @@
+<html>
+<head>
+	<title></title>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+</head>
+<body>
+	<center><h1>Owner's Dashboard</h1></center>
+
+	<div class="row">
+	
+		<% for(i=0;i<use.length; i++) {  %>
+	
+		<div class="col-md-2">
+			<h2>customer <%= i+1 %></h2>
+			<p>Name is <%= use[i].name %></p>
+			<p>Mobile is <%= use[i].phone %></p>
+			<p>Address is <%= use[i].address %></p>
+			<h4>Items Ordered</h4>
+			<p> <%= use[i].item1 %></p>
+			<p> <%= use[i].item2 %></p>
+			<p> <%= use[i].item3 %></p>
+			<p> <%= use[i].item4 %></p>
+			<p> <%= use[i].item5 %></p>
+			<p> <%= use[i].item6 %></p>
+			<p> <%= use[i].item7 %></p>
+			<p> <%= use[i].item8 %></p>
+			<p> <%= use[i].item9 %></p>
+			<p> <%= use[i].item10 %></p>
+		</div>
+
+ 		<% } %>
+
+	</div>
+
+
+</body>
+</html>
+
+

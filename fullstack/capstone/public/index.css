@@ -1,0 +1,27 @@
+h1{
+			text-align:center;
+			margin-top:10%;
+			font-size:65px;
+			/*text-shadow:3px 5px 2px black;*/
+}
+body{
+			background-image:url("https://www.pngitem.com/pimgs/m/501-5010272_ftestickers-background-frame-label-paper-border-ribbon-png.png");
+			background-size:100% 100%;
+			background-repeat:no-repeat;
+			overflow:hidden;
+}
+i
+{
+			margin-left:39%;
+			margin-top:22%;
+			font-size:24px;
+}
+.btn{
+			width:14%;
+			height:9%;
+			background-color:#45B39D;
+			border-radius:5%;
+			font-size:28px;
+			margin-left:42%;
+			margin-bottom:1%;
+}
