@@ -43,7 +43,6 @@ After submitting the order
 ![WhatsApp Image 2021-07-15 at 6 21 17 PM](https://user-images.githubusercontent.com/68632263/125791113-bdf324cc-f450-44c8-af09-4f81290c157f.jpeg)
 
 
-
-
+l
 
 
