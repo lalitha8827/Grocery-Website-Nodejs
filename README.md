@@ -26,7 +26,7 @@ If you have an account and again clicked on register button and submitted detail
 
 After successful login
 
-
+![Inkedscreencapture-localhost-3000-loginsubmit-2021-07-15-17_46_22_LI](https://user-images.githubusercontent.com/68632263/125804604-c34b36ea-3c95-4588-84f3-70ac8cd410d5.jpg)
 
 when you click on location you will get the location of the store on google maps
 
@@ -43,6 +43,6 @@ After submitting the order
 ![WhatsApp Image 2021-07-15 at 6 21 17 PM](https://user-images.githubusercontent.com/68632263/125791113-bdf324cc-f450-44c8-af09-4f81290c157f.jpeg)
 
 
-l
+
 
 
